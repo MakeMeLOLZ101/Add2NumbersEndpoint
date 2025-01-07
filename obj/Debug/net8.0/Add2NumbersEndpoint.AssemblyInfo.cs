@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Add2NumbersEndpoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c0b5b474c525ab1ab296380a8b2e99f8c7c2f7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bd57e111e8ad5e2061e0da080484cdd899f1423")]
 [assembly: System.Reflection.AssemblyProductAttribute("Add2NumbersEndpoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Add2NumbersEndpoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

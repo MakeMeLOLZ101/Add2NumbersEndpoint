@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UawMi4NYsS9AuKq3pHS0AIInRh1GmiVOC/tlXMc8JqY=",
+  "Source": "Add2NumbersEndpoint",
+  "BasePath": "_content/Add2NumbersEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
